@@ -1,2 +1,2 @@
 # Cafe-management
-Like this video
+Like this project
